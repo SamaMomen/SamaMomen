@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sama 👋
 
-<!--
-**samaNabil-cmyk/samaNabil-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 AI Engineering Student
 
-Here are some ideas to get you started:
+I'm interested in:
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Robotics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+Python  
+C++  
+Git & GitHub  
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- Computer Vision
+- Large Language Models
