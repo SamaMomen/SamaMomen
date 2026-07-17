@@ -47,8 +47,6 @@
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -56,22 +54,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SamaMomen&show_icons=true&theme=tokyonight" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaMomen&layout=compact&theme=tokyonight" width="40%"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamaMomen&theme=tokyonight" />
-
-</div>
-
-
----
 
 # 🧠 Currently Learning
 
