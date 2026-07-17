@@ -83,6 +83,9 @@ me = Sama()
 ```
 
 ---
+<h2 align="center">🌐 Connect With Me</h2>
 
+<p align="center">
+  <a href="mailto:samamomen217@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
   <a href="https://github.com/SamaMomen"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
 </p>
