@@ -2,10 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sama+Mo'men;AI+Engineering+Student;Exploring+Artificial+Intelligence;Building+My+Programming+Journey" />
 
-<br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="35%"/>
-
 </div>
 
 
@@ -54,7 +50,6 @@
 
 ---
 
-
 # 🧠 Currently Learning
 
 ```python
@@ -85,3 +80,24 @@ class Sama:
 
 
 me = Sama()
+```
+
+---
+
+---
+
+<h2 align="center">📫 Contact Me</h2>
+
+<p align="center">
+
+<a href="https://github.com/SamaMomen">
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:samamomen217@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+</p>
