@@ -84,8 +84,6 @@ me = Sama()
 
 ---
 
----
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
