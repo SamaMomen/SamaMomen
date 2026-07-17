@@ -13,7 +13,7 @@
 
 🎓 I'm **Sama Mo'men**, an **AI Engineering student** at **Horus University**  
 
-🧠 Department of **Smart Systems**
+🧠 Department of **Intelligent Systems**
 
 🌱 Currently learning and improving my skills in:
 
