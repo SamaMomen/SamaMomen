@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sama+Mo'men;AI+Engineering+Student;Learning+Artificial+Intelligence;Building+My+Programming+Journey" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sama+Mo'men;AI+Engineering+Student;Exploring+Artificial+Intelligence;Building+My+Programming+Journey" />
 
 <br>
 
@@ -11,7 +11,8 @@
 
 # 👩‍💻 About Me
 
-🎓 I'm **Sama Mo'men**, an AI Engineering student at **Horus University**  
+🎓 I'm **Sama Mo'men**, an **AI Engineering student** at **Horus University**  
+
 🧠 Department of **Smart Systems**
 
 🌱 Currently learning and improving my skills in:
@@ -46,9 +47,28 @@
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SamaMomen&show_icons=true&theme=tokyonight" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaMomen&layout=compact&theme=tokyonight" width="40%"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamaMomen&theme=tokyonight" />
+
+</div>
 
 
 ---
@@ -61,7 +81,7 @@ class Sama:
     def __init__(self):
         self.role = "AI Engineering Student"
 
-        self.skills = [
+        self.learning = [
             "Python",
             "C++",
             "Machine Learning",
