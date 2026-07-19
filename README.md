@@ -51,40 +51,6 @@
 
 
 ---
-
-# 🧠 Currently Learning
-
-```python
-class Sama:
-
-    def __init__(self):
-        self.role = "AI Engineering Student"
-
-        self.learning = [
-            "Python",
-            "C++",
-            "Machine Learning",
-            "Deep Learning",
-            "LLMs",
-            "NLP"
-        ]
-
-        self.tools = [
-            "VS Code",
-            "Visual Studio",
-            "Git",
-            "GitHub",
-            "Jupyter Notebook"
-        ]
-
-    def goal(self):
-        return "Become an AI Engineer and build meaningful projects"
-
-
-me = Sama()
-```
-
----
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
