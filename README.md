@@ -56,5 +56,5 @@
 <p align="center">
   <a href="mailto:samamomen217@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
   <a href="https://github.com/SamaMomen"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-  <a href="https://www.linkedin.com/in/sama--momen/"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+  <a href="https://www.linkedin.com/in/sama--momen/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
 </p>
